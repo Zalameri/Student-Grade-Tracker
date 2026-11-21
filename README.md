@@ -42,7 +42,7 @@ Invalid input (grade must be a number). Please enter a number such as 20 or 17.5
 ## 🚀 How to run
 
 ```bash
-git clone https://github.com/ghadahh2004/Student-Grade-Tracker.git
+git clone https://github.com/Zalameri/Student-Grade-Tracker.git
 cd Student-Grade-Tracker
 python main.py
 ```
