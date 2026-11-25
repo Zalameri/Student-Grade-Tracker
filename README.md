@@ -80,3 +80,7 @@ Student-Grade-Tracker/
 - Handling errors with `try` / `except`
 - Splitting code into small, testable functions
 - Writing unit tests with `pytest`
+
+## Portfolio
+
+Full case study: <https://zalameri.github.io/project.html?p=student-grade-tracker>
